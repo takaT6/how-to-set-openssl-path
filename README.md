@@ -1,4 +1,4 @@
-# how-to-set-openssl-path
+# howto-set-openssl-path
 M1 mac で cmakeを実行したらopensslでこけたのでその対処法
 
 ## 該当エラー
